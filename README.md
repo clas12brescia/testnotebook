@@ -1,2 +1,2 @@
 # testnotebook
-a test repository with a notebook insiede
+a test repository with a notebook inside
